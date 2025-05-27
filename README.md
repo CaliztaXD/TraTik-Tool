@@ -29,12 +29,12 @@ pkg install python git -y
 
 # Step 2: Clone the Tool
 ```bash
-git clone https://github.com/yourusername/tratik-tool
+git clone https://github.com/AmimNudin/TraTik-Tool
 cd tratik-tool
 ```
 # Step 3: Install Requirements
 ```bash
-pip install pystyle requests
+pip install -r requirements.txt
 ```
 # Step 4: Run It!
 ```bash
