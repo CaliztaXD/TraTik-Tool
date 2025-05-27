@@ -1,6 +1,3 @@
-Tentu! Berikut versi README.md yang lebih santai, berbahasa Inggris, fokus pada instalasi di Termux, dan sudah diberi emoji agar lebih menarik:
-
-
 ---
 
 # TRA TIK - Free TDS TikTok Tool ✨
