@@ -1,5 +1,5 @@
  # by amimxd
 requests==2.31.0
-pystyle==0.3.6
+pystyle==2.9
 
 #2025,X
