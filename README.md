@@ -29,7 +29,7 @@ pkg install python git -y
 
 # Step 2: Clone the Tool
 ```bash
-git clone https://github.com/AmimNudin/TraTik-Tool
+git clone https://github.com/CaliztaXD/TraTik-Tool
 cd TraTik-Tool
 ```
 # Step 3: Install Requirements
